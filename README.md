@@ -2,7 +2,7 @@
 
 Know what is due, and what to do next.
 
-**[Open DueSoon](https://kanishksaini-007.github.io/DueSoon/)**
+**[Open DueSoon](https://kanishk-saini-007.github.io/DueSoon/)**
 
 A small deadline tracker I built for students. Add an assignment, a lab report or an exam with its due date, and DueSoon shows a live countdown and tells you what to do first.
 
